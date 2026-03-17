@@ -1,4 +1,4 @@
-Tablet UI style split QS-notification panel in landscape. [Tested on Android 16 QPR2]
+Tablet UI style split QS-notification panel in landscape.
 
 Use BetterQS module for Android below QPR1
 
